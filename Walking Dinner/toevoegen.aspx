@@ -38,5 +38,5 @@
         <asp:TextBox ID="TextBox16" runat="server" style="z-index: 1; left: 732px; top: 300px; position: absolute" ForeColor="Black"></asp:TextBox>
 
     </p>
-    <asp:Button ID="Button1" runat="server" Font-Bold="True" ForeColor="Black" Text="Toevoegen" />
+    <asp:Button ID="Button1" runat="server" Font-Bold="True" ForeColor="Black" Text="Toevoegen" OnClick="Button1_Click" />
   </asp:Content>
